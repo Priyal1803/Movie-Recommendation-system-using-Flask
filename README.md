@@ -4,10 +4,15 @@ The model classifies movies into genres like Action, Romance, Thriller, Drama, o
 
 ## Project Overview
 • Dataset: kaggle_movie_train.csv
+
 • Objective: Predict the genre of a movie from its plot description.
+
 • Main Script: app.py
+
 • Saved Model: movie-genre-mnb-model.pkl
+
 • Vectorizer: cv-transform.pkl
+
 • Model Output: The trained model is saved as movie-genre-mnb-model.pkl, and the TF-IDF vectorizer is saved as cv-transform.pickle
 
 ## Methodology
